@@ -63,9 +63,12 @@ footer p{
 /* página de login  */
 #section-login h1{
     align-items: center;
-    
+
 }
 
 
 /* Formulário de cadastro*/
 
+form{
+    
+}
